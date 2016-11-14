@@ -25,4 +25,5 @@ d)
 --> echo "git diff --cached" >>  README.md
 --> echo "git log -2" >>  README.md
 
-e) 
+e) git remote add origin_2 https://github.com/cottaisantoine/tp-note-distant
+   git push origin_2 rapport_final
