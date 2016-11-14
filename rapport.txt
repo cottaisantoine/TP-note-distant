@@ -31,4 +31,7 @@ e) git remote add origin_2 https://github.com/cottaisantoine/tp-note-distant
 3)
 a) git clone https://github.com/vjousse/conduite-projet
 
-b) 
+b) cd conduite-projet/
+   echo "COTTAIS Antoine / IZAUTE Benoit" >> README.md
+
+c) 
