@@ -34,4 +34,9 @@ a) git clone https://github.com/vjousse/conduite-projet
 b) cd conduite-projet/
    echo "COTTAIS Antoine / IZAUTE Benoit" >> README.md
 
-c) 
+c) -
+
+4) 
+a) Dans le cas d'un merge, on récupére les modifications faites sur la branche
+b) Dans le cas d'un merge, il faut créer une branche
+
