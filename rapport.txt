@@ -27,3 +27,8 @@ d)
 
 e) git remote add origin_2 https://github.com/cottaisantoine/tp-note-distant
    git push origin_2 rapport_final
+
+3)
+a) git clone https://github.com/vjousse/conduite-projet
+
+b) 
